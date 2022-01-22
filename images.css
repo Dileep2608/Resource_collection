@@ -1,0 +1,654 @@
+#a {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#a:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#b {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#b:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#c {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#c:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#d {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#d:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#e {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#e:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#f {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#f:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#g {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#g:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#h {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#h:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px greenyellow;
+}
+#i {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#i:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#j {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#j:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#k {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#k:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#l {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#l:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#m {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#m:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#n {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#n:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#o {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#o:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#p {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#p:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#q {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#q:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#r {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#r:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#s {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#s:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#t {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#t:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#u {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#u:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#v {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#v:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#w {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#w:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#x {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#x:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#y {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#y:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#z {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#z:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#aa {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#aa:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ab {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ab:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ac {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ac:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ad {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ad:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ae {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ae:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#af {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#af:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ag {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ag:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ah {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ah:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ai {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ai:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#aj {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#aj:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ak {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ak:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#al {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#al:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#am {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#am:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#an {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#an:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ao {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 5px grey;
+}
+#ao:hover{
+    height: 175px;
+    width: 225px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px red;
+}
+#ba {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#ba {
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey inset;
+    transition: width 2s, height 2s, transform 2s;
+}
+#ba:hover {
+    width: 90px;
+    height: 90px;
+    transform: rotate(360deg);
+}
+#bb {
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey inset;
+    transition: width 2s, height 2s, transform 2s;
+}
+#bb:hover {
+    width: 90px;
+    height: 90px;
+    transform: rotate(360deg);
+}
+#bc {
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey inset;
+    transition: width 2s, height 2s, transform 2s;
+}
+#bc:hover {
+    width: 90px;
+    height: 90px;
+    transform: rotate(360deg);
+}
+#bd {
+
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 50%;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey inset;
+    transition: width 2s, height 2s, transform 2s;
+    
+}
+#bd:hover {
+    width: 90px;
+    height: 90px;
+    transform: rotate(360deg);
+}
+#be {
+
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey inset;
+    transition: width 2s, height 2s, transform 2s;
+}
+#be:hover {
+    width: 90px;
+    height: 90px;
+    transform: rotate(360deg);
+}
